@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> RocketPay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido juntamente com a Rocketseat.
 </p>
 
 <p align="center">
@@ -18,8 +18,18 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src=".github/cardVisa.png" width="40%">
+  <img alt="rocketpay" src=".github/cardElo.png" width="40%">
 </p>
+
+<p >
+</p>
+
+<p align="center">
+  <img alt="rocketpay" src=".github/cardMaster.png" width="40%">
+  <img alt="rocketpay" src=".github/cardDefault.png" width="40%">
+</p>
+
 
 ## 🚀 Tecnologias
 
@@ -43,6 +53,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
+---------
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">
+  <img alt="rocketpay" src=".github/printscreen.gif" width="100%">
+</p>
